@@ -21,8 +21,8 @@ El valor central del proyecto es la implementación directa y el estudio compara
 
 * **Lenguaje:** Processing (Java-like syntax, en archivos `.pde`).
 * **Archivos de Código:**
-    * [`ProyectoIterativo_KB_DC_VF.pde`](https://github.com/valeriaflorezs/Comparative-Analysis-Recursive-vs-Iterative/ProyectoIterativo_KB_DC_VF.pde): Contiene la implementación Iterativa (BFS).
-    * [`ProyectoRecursivo_KB_DC_VF.pde`](https://github.com/valeriaflorezs/Comparative-Analysis-Recursive-vs-Iterative/ProyectoRecursivo_KB_DC_VF.pde): Contiene la implementación Recursiva (DFS).
+    * [`ProyectoIterativo_KB_DC_VF.pde`](/valeriaflorezs/Comparative-Analysis-Recursive-vs-Iterative/blob/main/ProyectoIterativo_KB_DC_VF.pde): Contiene la implementación Iterativa (BFS).
+    * [`ProyectoRecursivo_KB_DC_VF.pde`](/valeriaflorezs/Comparative-Analysis-Recursive-vs-Iterative/blob/main/ProyectoRecursivo_KB_DC_VF.pde): Contiene la implementación Recursiva (DFS).
 
 ### Ejecución Local
 
@@ -32,9 +32,9 @@ Para ejecutar este proyecto, necesitas el **Processing IDE**. Simplemente descar
 
 El principal valor académico de este proyecto se encuentra en los informes técnicos adjuntos, que detallan el proceso de diseño y la evaluación de rendimiento:
 
-* **[INFORME COMPARATIVO ITERATIVO VS. RECURSIVO (PDF)](https://github.com/valeriaflorezs/Comparative-Analysis-Recursive-vs-Iterative/Informe_Comparativo_KB_DC_VF.pdf)**: Contiene la evaluación de carga computacional y la conclusión de la elegancia del código.
-* [Manual de Sistema (PDF)](https://github.com/valeriaflorezs/Comparative-Analysis-Recursive-vs-Iterative/Manual_Sistema_KB_DC_VF.pdf)
-* [Manual de Usuario (PDF)](https://github.com/valeriaflorezs/Comparative-Analysis-Recursive-vs-Iterative/Manual_Usuario_KB_DC_VF.pdf)
+* **[INFORME COMPARATIVO ITERATIVO VS. RECURSIVO (PDF)](/valeriaflorezs/Comparative-Analysis-Recursive-vs-Iterative/blob/main/Informe_Comparativo_KB_DC_VF.pdf)**: Contiene la evaluación de carga computacional y la conclusión de la elegancia del código.
+* [Manual de Sistema (PDF)](/valeriaflorezs/Comparative-Analysis-Recursive-vs-Iterative/blob/main/Manual_Sistema_KB_DC_VF.pdf)
+* [Manual de Usuario (PDF)](/valeriaflorezs/Comparative-Analysis-Recursive-vs-Iterative/blob/main/Manual_Usuario_KB_DC_VF.pdf)
 
 ---
 
